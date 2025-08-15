@@ -1,9 +1,4 @@
 # Advance_Brain_Tumor_Classification
-Absolutely! Here’s a **professional README template** tailored for your **Brain Tumor Detection** project:
-
----
-
-# Brain Tumor Detection
 
 ## Overview
 
@@ -75,5 +70,6 @@ This project is a **machine learning application** that detects the presence of 
 * Improve model accuracy with **larger datasets** and **transfer learning**.
 * Extend to classify **types of brain tumors**.
 * Deploy as a **web application** for easier access by medical professionals.
+
 
 ---
